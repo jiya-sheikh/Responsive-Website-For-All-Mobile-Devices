@@ -1,0 +1,27 @@
+body {
+  background: linear-gradient(90deg, white, purple);
+}
+
+.nav {
+  margin-left: 560px;
+  gap: 40px;
+  font-weight: bold;
+}
+
+.logo {
+  margin-left: 19px;
+}
+
+.contact-btn {
+  background-color: papayawhip;
+  color: black;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 13px;
+}
+
+.contact-btn:hover {
+  background-color: purple;
+}
